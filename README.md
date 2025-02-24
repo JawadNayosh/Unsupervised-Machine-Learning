@@ -12,4 +12,4 @@ Key techniques used in this project include:
 ✅ Dimensionality Reduction (PCA) – Simplifying complex datasets while retaining critical information.
 ✅ Performance Evaluation Assessing the quality of the clustering process.
 
-For details please see the file uploaded. 
+For details please see uploaded files of the project. 
